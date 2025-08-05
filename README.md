@@ -1,9 +1,9 @@
 # web-scraper
-#What it does
+# What it does
 
 This script is a web scraper that extracts the top headlines from the Times of India news website and saves them to a text file.
 
-#How it works
+# How it works
 
 1. The script sends a GET request to the Times of India news website to retrieve the HTML content of the page.
 2. It then uses BeautifulSoup to parse the HTML content and find the headline elements on the page.
